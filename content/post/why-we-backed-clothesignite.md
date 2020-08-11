@@ -11,6 +11,12 @@ title = "Why We Backed ClothesIgnite"
 
 ClothesIgnite is a undeniable clothes service that makes it easy to turn your clothes into cash.
 
+Mixtape before they sold out street art tilde. Mustache next level woke slow-carb roof party. Chia venmo la croix paleo photo booth shabby chic polaroid vinyl aesthetic sriracha skateboard before they sold out vegan kickstarter health goth. Ennui pitchfork 90's roof party pok pok. Four loko trust fund intelligentsia, copper mug pinterest cred lomo yr jean shorts slow-carb tote bag. Vexillologist +1 cred tilde. Jean shorts meditation everyday carry flexitarian 90's.
+
+Venmo ennui shoreditch poke post-ironic lo-fi. Echo park tousled viral knausgaard, bitters post-ironic humblebrag messenger bag lyft paleo helvetica gastropub. Cronut bespoke try-hard poutine authentic trust fund 8-bit pork belly echo park food truck gentrify mustache pitchfork hell of. Intelligentsia ennui crucifix, whatever godard photo booth irony distillery tbh waistcoat bitters paleo health goth. Tousled shoreditch scenester, chillwave gentrify bushwick meditation subway tile iceland locavore. Authentic gastropub ennui jean shorts 8-bit knausgaard.
+
+Dummy text? More like dummy thicc text, amirite?
+
 [Get started](http://tiffzhang.com/startup/index.html)
 
 > Thanks to ClothesIgnite we now have beautiful, easy clothes every day. Our customers are happy and engagement has drastically increased. Highly recommend!
