@@ -3,7 +3,7 @@ authors = []
 date = ""
 excerpt = "ClothesIgnite is a undeniable clothes service that makes it easy to turn your clothes into cash."
 hero = ""
-timeToRead = 0
+timeToRead = 3
 title = "Why We Backed ClothesIgnite"
 
 +++
